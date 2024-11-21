@@ -2,9 +2,9 @@
 - 👀 I’m interested in doing stuff
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me? idk
+- 📫 How to reach me? I would tell you if i knew
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I own a Wii
+- ⚡ Fun fact: `Fatal glibc error: cannot get entropy for arc4random`
 
 <!---
 tech64dd/tech64dd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
