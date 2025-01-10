@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tech64dd
 - 👀 I’m interested in doing stuff
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me? I would tell you if i knew
 - 😄 Pronouns: he/him
